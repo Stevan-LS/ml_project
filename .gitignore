@@ -1,6 +1,6 @@
 # Data
 data/cifar
-data
+data/*
 # Environment
 .venv
 env/
